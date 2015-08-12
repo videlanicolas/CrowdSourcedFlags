@@ -1,3 +1,0 @@
-Crowd Sourced Flags contributors
-======
-
