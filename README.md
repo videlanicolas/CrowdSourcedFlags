@@ -6,4 +6,6 @@ All contributors will be listed in CrowdSourcedFlags/CONTRIBUTORS.md.
 
 You can contribute by pull request or Reddit post in [/r/KSP_CrowdSourcedFlags](https://reddit.com/r/KSP_CrowdSourcedFlags).
 
+_dmxz is known on Reddit as /u/31337h4x0r and as GenericAerospace on the KSP forums._
+
 [![Creative Commons Attribution Share-Alike 4.0 Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
