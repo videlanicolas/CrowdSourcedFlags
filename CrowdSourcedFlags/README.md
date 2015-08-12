@@ -1,5 +1,5 @@
 # CrowdSourcedFlags
-A community pack of flags for use in Kerbal Space Program.
+A community pack of flags for use in Kerbal Space Program. Available on the [CKAN](https://github.com/KSP-CKAN/CKAN) as `CrowdSourcedFlags`.
 
 This project is licensed under the Creative Commons Attribution Share-Alike 4.0 license as stated in LICENSE.txt.
 All contributors will be listed in CONTRIBUTORS.md.
