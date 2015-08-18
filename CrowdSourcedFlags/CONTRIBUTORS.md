@@ -1,6 +1,8 @@
 Crowd Sourced Flags contributors
 ======
 
+OC means Original Content and means the author created the flag mostly or entirely from scratch. If a flag isn't labelled OC, the author found it somewhere, rescaled it and added it to the pack without significant modification.
+
 Jool System
 ----
 
