@@ -59,6 +59,7 @@ British Isles
 - `Ireland` - dmxz
 - `Isle_of_Man` - Open Clip Art Library
 - `Jersey` - Xrmap
+- `Mercia` - dmxz
 - `Scotland` - dmxz
 - `Scotland_Light` - dmxz
 - `Scotland_Lion` - dmxz
@@ -79,6 +80,8 @@ Misc
 - `GenericAerospace_bada55` - dmxz (OC)
 - `German_Empire` - dmxz
 - `Germany` - dmxz
+- `Greece` - dmxz
+- `Sparta` - TRAJAN 117 on the Wikimedia Commons (OC)
 - `Slovakia` - dmxz
 - `USA` - dmxz
 - `Viking` - Supermagnum on GitHub (OC)
