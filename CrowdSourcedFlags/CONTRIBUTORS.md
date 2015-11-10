@@ -78,4 +78,4 @@ Misc
 - `Germany` - dmxz
 - `Slovakia` - dmxz
 - `USA` - dmxz
-- `Viking` - Supermagnum (OC)
+- `Viking` - Supermagnum on GitHub (OC)
