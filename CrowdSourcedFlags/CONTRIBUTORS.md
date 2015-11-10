@@ -78,3 +78,4 @@ Misc
 - `Germany` - dmxz
 - `Slovakia` - dmxz
 - `USA` - dmxz
+- `Viking` - Supermagnum (OC)
