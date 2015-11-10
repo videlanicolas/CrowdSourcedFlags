@@ -55,7 +55,10 @@ British Isles
 
 - `Cornwall` - dmxz
 - `England` - dmxz
+- `Guernsey` - Open Clip Art Library
 - `Ireland` - dmxz
+- `Isle_of_Man` - Open Clip Art Library
+- `Jersey` - Xrmap
 - `Scotland` - dmxz
 - `Scotland_Light` - dmxz
 - `Scotland_Lion` - dmxz
