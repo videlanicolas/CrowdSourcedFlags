@@ -20,7 +20,7 @@ Rules for contributions
 
 Your flag must be...
 
-- under a suitable license. CC-0 recommended. If you don't name a specific licence when contributing, CC-0 is assumed.
+- under a suitable license. If you don't name a specific licence when contributing, CC-BY-SA is assumed.
 - not a duplicate or near-duplicate of one already in the pack or in stock.
 - SFW.
 - a PNG.
