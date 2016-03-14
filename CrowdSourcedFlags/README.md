@@ -26,6 +26,6 @@ Your flag must be...
 - a PNG.
 - 256 pixels wide.
 - 160 pixels high.
-- of good quality (not a badly-scaled JPEG in the wrong aspect ratio and full of artefacts).
+- of good quality (not a badly-scaled JPEG in the wrong aspect ratio and full of artifacts).
 
 [![Creative Commons Attribution Share-Alike 4.0 Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
