@@ -77,6 +77,7 @@ Misc
 ----
 
 - `Czech_Republic` - dmxz
+- `Blue_Star` - schnip (OC)
 - `GenericAerospace_bada55` - dmxz (OC)
 - `German_Empire` - dmxz
 - `Germany` - dmxz
